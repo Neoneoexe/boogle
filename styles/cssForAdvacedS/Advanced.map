@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "Advanced.css",
+	"sources": [
+		"../sscss/Advanced.scss"
+	],
+	"sourcesContent": [
+		"$darkTheme: #202124;\r\n\r\nbody{\r\n    background-color: $darkTheme;\r\n}\r\n.logo{\r\n    height: 10px;\r\n}"
+	],
+	"names": [],
+	"mappings": ";AAEA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAHR,OAAO;CAIlB;;;AACD,AAAA,KAAK,CAAA;EACD,MAAM,EAAE,IAAI;CACf"
+}
